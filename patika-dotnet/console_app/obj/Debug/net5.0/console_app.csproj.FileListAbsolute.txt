@@ -1,0 +1,16 @@
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\bin\Debug\net5.0\console_app.exe
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\bin\Debug\net5.0\console_app.deps.json
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\bin\Debug\net5.0\console_app.runtimeconfig.json
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\bin\Debug\net5.0\console_app.runtimeconfig.dev.json
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\bin\Debug\net5.0\console_app.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\bin\Debug\net5.0\ref\console_app.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\bin\Debug\net5.0\console_app.pdb
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\obj\Debug\net5.0\console_app.csproj.AssemblyReference.cache
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\obj\Debug\net5.0\console_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\obj\Debug\net5.0\console_app.AssemblyInfoInputs.cache
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\obj\Debug\net5.0\console_app.AssemblyInfo.cs
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\obj\Debug\net5.0\console_app.csproj.CoreCompileInputs.cache
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\obj\Debug\net5.0\console_app.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\obj\Debug\net5.0\ref\console_app.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\obj\Debug\net5.0\console_app.pdb
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\console_app\obj\Debug\net5.0\console_app.genruntimeconfig.cache
