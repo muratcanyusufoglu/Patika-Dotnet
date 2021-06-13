@@ -1,0 +1,16 @@
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\obj\Debug\net5.0\if_else.csproj.AssemblyReference.cache
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\obj\Debug\net5.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\obj\Debug\net5.0\if_else.AssemblyInfoInputs.cache
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\obj\Debug\net5.0\if_else.AssemblyInfo.cs
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\obj\Debug\net5.0\if_else.csproj.CoreCompileInputs.cache
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\bin\Debug\net5.0\if_else.exe
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\bin\Debug\net5.0\if_else.deps.json
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\bin\Debug\net5.0\if_else.runtimeconfig.json
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\bin\Debug\net5.0\if_else.runtimeconfig.dev.json
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\bin\Debug\net5.0\if_else.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\bin\Debug\net5.0\ref\if_else.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\bin\Debug\net5.0\if_else.pdb
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\obj\Debug\net5.0\if_else.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\obj\Debug\net5.0\ref\if_else.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\obj\Debug\net5.0\if_else.pdb
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\if_else\obj\Debug\net5.0\if_else.genruntimeconfig.cache
