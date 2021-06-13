@@ -1,0 +1,16 @@
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\bin\Debug\net5.0\switch_case.exe
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\bin\Debug\net5.0\switch_case.deps.json
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\bin\Debug\net5.0\switch_case.runtimeconfig.json
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\bin\Debug\net5.0\switch_case.runtimeconfig.dev.json
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\bin\Debug\net5.0\switch_case.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\bin\Debug\net5.0\ref\switch_case.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\bin\Debug\net5.0\switch_case.pdb
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\obj\Debug\net5.0\switch_case.csproj.AssemblyReference.cache
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\obj\Debug\net5.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\obj\Debug\net5.0\switch_case.AssemblyInfoInputs.cache
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\obj\Debug\net5.0\switch_case.AssemblyInfo.cs
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\obj\Debug\net5.0\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\obj\Debug\net5.0\switch_case.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\obj\Debug\net5.0\ref\switch_case.dll
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\obj\Debug\net5.0\switch_case.pdb
+C:\Users\Muratcan Yusufoğlu\Desktop\patika-dotnet\switch_case\obj\Debug\net5.0\switch_case.genruntimeconfig.cache
